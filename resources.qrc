@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/rc">
+        <file>icons/passIcon.ico</file>
+        <file>icons/search_button.png</file>
+    </qresource>
+</RCC>
